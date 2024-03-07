@@ -8,7 +8,7 @@
   - Do not use internal or external libraries/packages to process the text.
   - We can use any language of our choice.
 - SPECIFICATIONS:
-  - The API will be called as the service like this, assuming the URL to the service is 'http://<localhost>/getTimeStories' . This is a simple GET call. In response, we want a JSON object array with the latest 6 stories.
+  - The API will be called as the service like this, assuming the URL to the service is 'http://localhost/getTimeStories' . This is a simple GET call. In response, we want a JSON object array with the latest 6 stories.
 
 ## Setup
 
